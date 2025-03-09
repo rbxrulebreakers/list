@@ -27,7 +27,7 @@ A: To prevent individuals that can harm your playerbase or such.
 
 Q: Why and when did this exist?
 
-A: The RbxRuleBreakers List has been active since November 17, 2024. The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
+A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
 
 You may find more questions within [![Discord Server][shield-discord-server]][discord-invite].
 
