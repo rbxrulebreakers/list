@@ -58,7 +58,7 @@ Please join the [![Discord][shield-discord-server]][discord-invite] Server befor
 ## Fetch list
 > Outputs the list.
 ```luau
-print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users"))
+print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com/rbxrulebreakers/list/main/users"))
 ```
 ## Prevent players in the list from joining
 
@@ -73,7 +73,7 @@ local list = nil
 
 --// Functions
 
--- Fetches the latest list of https://github.com/adudu21isme/rbxrulebreakers
+-- Fetches the latest list of https://raw.githubusercontent.com/rbxrulebreakers/list/main/users
 @native
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
@@ -81,7 +81,7 @@ local function FetchList()
    local s,r,t=nil,nil,3
    repeat
       s,r=pcall(function()
-         return http:GetAsync("https://raw.githubusercontent.com/adudu21isme/rbxrulebreakers/main/users",true)
+         return http:GetAsync("https://raw.githubusercontent.com/rbxrulebreakers/list/main/users",true)
       end)
       if not s then
          if string.match(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
