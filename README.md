@@ -1,12 +1,10 @@
-This repository is currently being setup so do not use any code within this message currently.
-
 RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click me](https://www.roblox.com/support).
 
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/076a06b6-0c77-448b-bea2-286d24ea2dc5)
 
 [![Discord Server][shield-discord-server]][discord-invite]
 
-# Adudu21's Roblox Exploiters and Terms of Service/Community Standards Violators List 
+# Roblox Exploiters and Terms of Service/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
 # ❗Reports and Appeals📄
