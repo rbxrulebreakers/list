@@ -73,7 +73,7 @@ local list = nil
 
 --// Functions
 
--- Fetches the latest list of https://raw.githubusercontent.com/rbxrulebreakers/list/main/users
+-- Fetches the latest list of https://github.com/rbxrulebreakers/list
 @native
 local function FetchList()
    if fetching then while task.wait(1) do if not fetching then return end end end
