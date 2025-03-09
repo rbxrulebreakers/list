@@ -1,6 +1,6 @@
 This repository is currently being setup so do not use any code within this message currently.
 
-We are not official Roblox! If you need help from roblox then go to https://www.roblox.com/support.
+RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click me](https://www.roblox.com/support).
 
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/076a06b6-0c77-448b-bea2-286d24ea2dc5)
 
