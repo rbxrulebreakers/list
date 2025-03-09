@@ -106,7 +106,7 @@ plrs.PlayerAdded:Connect(function(p)
       --// Kick the rule breaker from the game
       return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or similar.
 
-Banning the owner and/or such from your game will not remove you from the list and will not improve your ego.
+Banning the owner and/or such from your game(s) will not remove you from the list and will not improve your ego.
 
 You can appeal via joining the Discord Server, to find it, go to rbxrulebreakers/list on GitHub then afterwards check README.md, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
    end
