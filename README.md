@@ -1,4 +1,4 @@
-This repository is currently being setup.
+This repository is currently being setup so do not use any code within this message currently.
 
 We are not official Roblox! If you need help from roblox then go to https://www.roblox.com/support.
 
