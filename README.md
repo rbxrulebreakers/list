@@ -1,5 +1,7 @@
 RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click me](https://www.roblox.com/support).
 
+# Information within this repository is subject to change.
+
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/076a06b6-0c77-448b-bea2-286d24ea2dc5)
 
 [![Discord Server][shield-discord-server]][discord-invite]
