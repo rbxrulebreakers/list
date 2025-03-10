@@ -1,6 +1,4 @@
-RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click me](https://www.roblox.com/support).
-
-# Information within this repository is subject to change.
+RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click here](https://www.roblox.com/support).
 
 ![Adudu21's Roblox Rule Breakers](https://github.com/user-attachments/assets/076a06b6-0c77-448b-bea2-286d24ea2dc5)
 
@@ -29,7 +27,7 @@ A: To prevent individuals that can harm your playerbase or such.
 
 Q: Why and when did this exist?
 
-A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
+A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist that weren't moderated and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
 
 You may find more questions within [![Discord Server][shield-discord-server]][discord-invite].
 
@@ -48,13 +46,11 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 4. Excessive Harmful Misinformation
 5. Mass Scamming
 
-Every once in awhile or so, the status's of the users in the list will be checked (including Bio ("About me") for harmful content), additionally, their friends Bios ("About me") may aswell be checked for harmful content. To the providers of the services that are used to check, a header named "X-FriendChecker" alongside "X-Checker" is provided.
-
 # Usage
 Please join the [![Discord][shield-discord-server]][discord-invite] Server before using the list for your game(s), if there's any important announcements or such, you'll be notified there.
 > These are examples. The game must have HTTP Requests Enabled.
 
-> If your game has at-least 500K Visits and 1000+ DAU ("Daily Active Users"), you may create an inquiry within the Discord Server for it to be listed in https://devforum.roblox.com/t/adudu21s-rbxrulebreakers-list/3506160. 
+> If your game has at-least 500K Visits and 1K+ DAU ("Daily Active Users"), you may create an inquiry within the Discord Server for it to be listed in https://devforum.roblox.com/t/adudu21s-rbxrulebreakers-list/3506160. 
 ## Fetch list
 > Outputs the list.
 ```luau
@@ -68,8 +64,7 @@ local http = game:GetService("HttpService")
 local plrs = game:GetService("Players")
 
 --// Vars
-local fetching = nil
-local list = nil
+local fetching,list = nil,nil
 
 --// Functions
 
@@ -84,14 +79,14 @@ local function FetchList()
          return http:GetAsync("https://raw.githubusercontent.com/rbxrulebreakers/list/main/users",true)
       end)
       if not s then
-         if string.match(r,"exceeded") then warn("⚠️RBX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
+         if string.match(r,"exceeded") then warn("ROBLOX RATELIMIT. Waiting 30sec...")task.wait(30)else t=-1 task.wait(1)end
       end
    until s or t == 0
    if s then list=r end
    fetching=nil
 end
 
--- Checks if the user is on the list. Use Parallel Luau?
+-- Checks if the user is on the list.
 @native
 local function IsOnList(id)
    return list and string.match(list,`,{id},`)
@@ -106,7 +101,7 @@ plrs.PlayerAdded:Connect(function(p)
       --// Kick the rule breaker from the game
       return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or similar.
 
-Banning the owner and/or such from your game(s) will not remove you from the list and will not improve your ego.
+Moderating any user from your game that helps rbxrulebreakers will not remove you from the list.
 
 You can appeal via joining the Discord Server, to find it, go to rbxrulebreakers/list on GitHub then afterwards check README.md, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
    end
