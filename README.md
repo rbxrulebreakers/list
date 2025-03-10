@@ -4,7 +4,7 @@ RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If y
 
 [![Discord Server][shield-discord-server]][discord-invite]
 
-# Roblox Exploiters and Terms of Service/Community Standards Violators List 
+# Roblox Exploiters and Terms of Use/Community Standards Violators List 
 > A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
 
 # ❗Reports and Appeals📄
@@ -99,7 +99,7 @@ plrs.PlayerAdded:Connect(function(p)
    if not list then FetchList()end
    if IsOnList(id) then
       --// Kick the rule breaker from the game
-      return p:Kick([[Violations of Roblox ToS ("Terms of Service")/Community Standards or similar.
+      return p:Kick([[Violations of Roblox ToU ("Terms of Use")/Community Standards or similar.
 
 Moderating any user from your game that helps rbxrulebreakers will not remove you from the list.
 
