@@ -118,4 +118,4 @@ end)
 # This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
 
 [shield-discord-server]: https://img.shields.io/discord/1335018287209123890?logo=discord&logoColor=white&label=discord&color=000000
-[discord-invite]:  https://discord.gg/U7JstgHdyg
+[discord-invite]: https://discord.gg/U7JstgHdyg
