@@ -1,5 +1,7 @@
 # Security Policy
 
+If any team members or such have been compromised please report it within the discord server or the email address within this file.
+
 ## Supported Branches
 
 | Branche | Supported          |
