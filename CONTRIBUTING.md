@@ -1,9 +1,9 @@
 # Contributing
 
 > [!IMPORTANT]
-> If you want to add users into the list, please report them via the [![Discord][shield-discord-server]][discord-invite] Server.
+> If you want to add users into the list then report them via the [![Discord][shield-discord-server]][discord-invite] Server.
 
-Generally, you must state what you've done in the contribution.
+Generally, you must state what you've done in the contribution, ensure to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 > [!WARNING]
 > NEVER EDIT [users](./users), [InternalPlaceVersion](./InternalPlaceVersion).

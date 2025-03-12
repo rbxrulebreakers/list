@@ -1,5 +1,5 @@
 > [!CAUTION]
-> The only official place for the rbxrulebreakers list is https://github.com/rbxrulebreakers/list. Any other websites offering downloads or claiming to be us are not controlled by us.
+> The only official place to get the rbxrulebreakers list is https://github.com/rbxrulebreakers/list. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 > [!WARNING]
 > RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click here](https://www.roblox.com/support).
@@ -12,24 +12,24 @@
 [![Discord Server][shield-discord-server]][discord-invite]
 
 # Roblox Exploiters and Terms of Use/Community Standards Violators List 
-A list of users which violates the rules of roblox (that can be considered serious violations) so you can prevent them from joining your Roblox Game
+A list of users which violate the rules of Roblox (that could be considered serious violations) so you can prevent them from joining your Roblox Game(s)
 
 # ❗Reports and Appeals📄
 > [!TIP]
 > **Before requesting for a user to be added into the list, it's recommended to also use Roblox's Reporting Features, if you're within the EU, you may visit https://www.roblox.com/illegal-content-reporting then afterwards report the user there (EU Reports have a higher chance to be accepted than regular roblox reports).**
 
-You can report and appeal in [![Discord Server][shield-discord-server]][discord-invite].
+You can report and appeal within the [![Discord Server][shield-discord-server]][discord-invite].
 
 > [!CAUTION]
 > **Reports, Appeals or such are carefully and fairly reviewed. Tickets that do not follow the guidelines may result getting ticket blacklisted or such.**
 
 > [!NOTE]
-> **Terminated users may be removed from the list, if a user was removed because of being terminated but is now unterminated, you may request for them to be readded.**
+> **Terminated users might be removed from the list, if a user was removed because of being terminated but is now unterminated, you can request for them to be readded into the list.**
 
 # ❓Quick FAQ
 Q: "You're adding everyone into the list!"
 
-A: We do not "add everyone" into the list, we only add users which have exploited in roblox games, ERP'ed or did very bad actions. Users are flagged for review if they are friends with any bad account on the list. If you really do not trust such a list, you are not forced to use it.
+A: We do not "add everyone" into the list, we only add users which have Exploited in Roblox Experiences ("Games"), ERP'ed or such. Users are flagged for review if they are friends with any accounts that are within the list. If you really do not trust such a list, you are not forced to use it.
 
 Q: What is this for?
 
@@ -37,10 +37,10 @@ A: To prevent individuals that can harm your playerbase or such.
 
 Q: Why and when did this exist?
 
-A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because adudu21 had gotten tired of how many rule breakers exist that weren't moderated and was as-well inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
+A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because [adudu21](https://www.roblox.com/users/684075566/profile) had gotten tired of how many rule breakers exist that were not moderated by Roblox and as-well was inspired by Moderation For Dummies (another project/organization, created by Ruben Sim).
 
 > [!TIP]
-> You may find more frequently asked questions within [![Discord Server][shield-discord-server]][discord-invite].
+> You may find more frequently asked questions within the [![Discord Server][shield-discord-server]][discord-invite].
 
 # General information
 This is a list with Roblox UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
@@ -51,8 +51,8 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 
 ## This is to let you know what would count as a violation (not all is listed)
 
-1. Violations that would result in permanent suspension from Roblox
-2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, they may be added into the list)
+1. Violations that result in permanent suspension from Roblox
+2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, it's likely for them to be added into the list after review)
 3. Excessive Harmful Toxicity (Bullying, Harassment, Threats)
 4. Excessive Harmful Misinformation
 5. Mass Scamming
@@ -62,10 +62,10 @@ Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/co
 Join the [![Discord][shield-discord-server]][discord-invite] Server before using the list for your game(s).
 
 > [!IMPORTANT]
-> These are examples. The game must have HTTP Requests Enabled.
+> These are examples. The game must have HTTP Requests Enabled otherwise it will not work.
 
 > [!Tip]
-> If your game has at-least 500K Visits and 1K+ DAU ("Daily Active Users"), you may create an inquiry within the Discord Server for it to be listed in https://devforum.roblox.com/t/adudu21s-rbxrulebreakers-list/3506160. 
+> If your game has at-least 500K Visits and 1K+ DAU ("Daily Active Users"), you can create an inquiry within the [![Discord][shield-discord-server]][discord-invite] Server for it to be listed in https://devforum.roblox.com/t/adudu21s-rbxrulebreakers-list/3506160. 
 ## Fetch list
 > [!NOTE]
 > Outputs the list.
@@ -120,7 +120,7 @@ plrs.PlayerAdded:Connect(function(p)
 
 Moderating any user from your game that helps rbxrulebreakers will not remove you from the list.
 
-You can appeal via joining the Discord Server, to find it, go to rbxrulebreakers/list on GitHub then afterwards check README.md, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
+You may appeal via joining the official RbxRuleBreakers (RRB) Discord Server, to find it, go to rbxrulebreakers/list via GitHub then check README.md which provides the link, if appeal is accepted, you'll be able to play again in approximately 1 hour.]])
    end
 end)
 

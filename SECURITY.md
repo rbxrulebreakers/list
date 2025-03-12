@@ -1,7 +1,7 @@
 # Security Policy
 
 > [!WARNING]
-> If any team members or such have been compromised please immediately report it to the discord server or the email address provided within this policy.
+> If any team members or such have been compromised then immediately report it in the discord server or the email address provided within this policy.
 
 ## Reporting a Vulnerability
 > [!IMPORTANT]
