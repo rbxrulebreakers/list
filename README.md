@@ -1,3 +1,6 @@
+> [!CAUTION]
+> The only official place for the rbxrulebreakers list is https://github.com/rbxrulebreakers/list. Any other websites offering downloads or claiming to be us are not controlled by us.
+
 > [!WARNING]
 > RbxRuleBreakers is not partnered with Roblox and is not endorsed by Roblox. If you require assistance from Roblox then [click here](https://www.roblox.com/support).
 
