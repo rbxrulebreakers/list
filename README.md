@@ -21,7 +21,7 @@ You can report and appeal in [![Discord Server][shield-discord-server]][discord-
 > **Reports, Appeals or such are carefully and fairly reviewed. Tickets that do not follow the guidelines may result getting ticket blacklisted or such.**
 
 > [!NOTE]
-> **Terminated users may be removed from the list, if a user was removed because of being terminated but are now unterminated, you may request for them to be readded.**
+> **Terminated users may be removed from the list, if a user was removed because of being terminated but is now unterminated, you may request for them to be readded.**
 
 # ❓Quick FAQ
 Q: "You're adding everyone into the list!"
