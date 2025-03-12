@@ -1,14 +1,11 @@
 # Security Policy
 
-If any team members or such have been compromised please report it within the discord server or the email address within this file.
-
-## Supported Branches
-
-| Branche | Supported          |
-| ------- | ------------------ |
-| main | :white_check_mark: |
+> [!WARNING]
+> If any team members or such have been compromised please immediately report it to the discord server or the email address provided within this policy.
 
 ## Reporting a Vulnerability
+> [!IMPORTANT]
+> Ensure to follow the [Code of Conduct](./CODE_OF_CONDUCT.md) when reporting.
 
 Create an inquiry within the [![Discord][shield-discord-server]][discord-invite] Server or email rbxrulebreakers@proton.me.
 
