@@ -49,13 +49,7 @@ This list is made for Roblox Game Developers to use it.
 
 Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/communities/35633326/rbxrulebreakers
 
-## This is to let you know what would count as a violation (not all is listed)
-
-1. Violations that result in permanent suspension from Roblox
-2. Exploiting (using third-party software to tamper with Roblox. If a user is detected for cheating in a roblox game affiliated with adudu21, it's likely for them to be added into the list after review)
-3. Excessive Harmful Toxicity (Bullying, Harassment, Threats)
-4. Excessive Harmful Misinformation
-5. Mass Scamming
+## To see what is appealable and not, join the [![Discord Server][shield-discord-server]].
 
 # Usage
 > [!NOTE]
@@ -74,7 +68,7 @@ print(game:GetService("HttpService"):GetAsync("https://raw.githubusercontent.com
 ```
 ## Using the list
 > [!NOTE]
-> Prevents players which are within the list from joining your Roblox Game
+> Prevents users which are within the list from joining your Roblox Game
 ```luau
 --// Services
 local http = game:GetService("HttpService")
@@ -120,7 +114,7 @@ plrs.PlayerAdded:Connect(function(p)
 
 Moderating any user from your game that helps rbxrulebreakers will not remove you from the list.
 
-You may appeal via joining the official RbxRuleBreakers (RRB) Discord Server, to find it, go to rbxrulebreakers/list via GitHub then check README.md which provides the link, if appeal is accepted, you'll be able to play again in approximately 1 hour.]])
+You may appeal via joining the RbxRuleBreakers (RRB) Discord Server, to find it, go to rbxrulebreakers/list in GitHub then check README.md which provides the link, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
    end
 end)
 
