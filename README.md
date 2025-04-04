@@ -2,7 +2,7 @@
 > The only official place to get the rbxrulebreakers list is https://github.com/rbxrulebreakers/list. Any other websites offering downloads or claiming to be us are not controlled by us.
 
 > [!WARNING]
-> We are not Roblox employees! If you require assistance from Roblox then [click here](https://www.roblox.com/support).
+> We are not Roblox employees! If you require assistance from Roblox then [click here](https://www.roblox.com/support) or call roblox (United States Number) at 888-858-2569.
 
 > [!IMPORTANT]
 > This repository is created for informational, educational, moderation, and safety purposes only. This repository is not intended to target, harass or bully any individual mentioned. We strongly condemn harassment, bullying, raiding and any form of online misconduct. Users are reminded to engage respectfully and responsibly.
