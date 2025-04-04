@@ -108,11 +108,11 @@ plrs.PlayerAdded:Connect(function(p)
    if not list then FetchList()end
    if IsOnList(id) then
       --// Kick the rule breaker from the game
-      return p:Kick([[Violations of Roblox ToU ("Terms of Use")/Community Standards or similar.
+      return p:Kick([[Violations of Roblox's ToU ("Terms of Use")/Community Standards or similar.
 
-Moderating any user from your game that helps rbxrulebreakers will not remove you from the list.
+Moderating any users associated with RbxRuleBreakers (RRB) will not remove you from the list.
 
-You may appeal via joining the RbxRuleBreakers (RRB) Discord Server, to find it, go to rbxrulebreakers/list in GitHub then check README.md which provides the link, if appeal is accepted, you'll be allowed to play again in approximately 1 hour.]])
+To appeal, join the RbxRuleBreakers Discord Server, to find it, visit GitHub and search rbxrulebreakers/list then read README.md. If appeal is accepted, you'll be allowed to play again in approximately 2 hours.]])
    end
 end)
 
