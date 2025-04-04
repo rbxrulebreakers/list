@@ -49,7 +49,7 @@ This list is made for Roblox Game Developers to use it.
 
 Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/communities/35633326/rbxrulebreakers
 
-## To see what is appealable and not, join the [![Discord Server][shield-discord-server]].
+## To see what is appealable, join the [![Discord][shield-discord-server]][discord-invite].
 
 # Usage
 > [!NOTE]
