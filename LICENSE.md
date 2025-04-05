@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > Copyright (c) 2024-2025 [rbxrulebreakers](https://github.com/rbxrulebreakers)
 
-Effective Date: March 11th, 2025
+Effective Date: April 5th, 2025
 
 # If you use the list, you are subject to the following conditions but not limited to:
 - You cannot sell the list as it must always remain FREE.
@@ -16,7 +16,7 @@ Effective Date: March 11th, 2025
 
 # Contact information:
 
-If you have any questions or concerns regarding the list then email rbxrulebreakers@proton.me or join the [![Discord Server][shield-discord-server]][discord-invite] and create an inquiry.
+If you have any questions or concerns regarding the list then join the [![Discord Server][shield-discord-server]][discord-invite] and create an inquiry.
 
 # Updates to the license
 The owner of the list may update the license from time to time. Any changes will be posted with a new effective date. Continued use of the list after updates indicates acceptance of the new license.
