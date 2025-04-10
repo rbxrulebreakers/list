@@ -75,7 +75,7 @@ local http = game:GetService("HttpService")
 local plrs = game:GetService("Players")
 
 --// Vars
-local fetching,list = nil,nil
+local IsInStudio,fetching,list = game:GetService("RunService"):IsStudio(),nil,nil
 
 --// Functions
 
@@ -108,13 +108,15 @@ plrs.PlayerAdded:Connect(function(p)
    local id = p.UserId
    --// Is User on list? Put this somewhere that its ok if the code yields
    if not list then FetchList()end
-   if IsOnList(id) then
+   if IsOnList(id) and not IsInStudio then
       --// Kick the rule breaker from the game
-      return p:Kick([[Violations of Roblox's ToU ("Terms of Use")/Community Standards or similar.
+      return p:Kick([[You have violated Roblox's ToU ("Terms of Use")/Community Standards or such.
 
-Moderating any users associated with RbxRuleBreakers (RRB) will not remove you from the list.
+Moderating any users associated with Roblox Rule Breakers (RRB) does not remove you from the list.
 
-To appeal, join the RbxRuleBreakers Discord Server, to find it, visit GitHub and search rbxrulebreakers/list then read README.md. If appeal is accepted, you'll be allowed to play again in approximately 2 hours.]])
+Before appealing, mention the game which you were kicked from because of this.
+
+To appeal, join the Roblox Rule Breakers (RRB) Communications server (.gg/U7JstgHdyg).]])
    end
 end)
 
