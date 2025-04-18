@@ -37,7 +37,7 @@ A: To prevent individuals that can harm your playerbase or such.
 
 Q: Why and when did this exist?
 
-A: The RbxRuleBreakers List has been active since [November 17, 2024](https://github.com/adudu21isme/rbxrulebreakers/commit/958cf0ccd9ac6bdf826dff0d09dc4097a7ccbaa1). The reason why this was created is because [adudu21](https://www.roblox.com/users/684075566/profile) had gotten tired of how many rule breakers exist that were not moderated by Roblox and as-well was inspired by MFD (another project/organization, created by Ruben).
+A: The RbxRuleBreakers List has been active since November 17, 2024 (this is the new Repository). The reason why this was created is because [adudu21](https://www.roblox.com/users/684075566/profile) had gotten tired of how many rule breakers exist that were not moderated by Roblox and as-well was inspired by MFD (another project/organization, created by Ruben).
 
 > [!TIP]
 > You may find more frequently asked questions within the [![Discord Server][shield-discord-server]][discord-invite].
