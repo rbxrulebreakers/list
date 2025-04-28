@@ -11,7 +11,7 @@
 
 [![Discord Server][shield-discord-server]][discord-invite]
 
-# Roblox Exploiters and Terms of Use/Community Standards Violators List 
+# Roblox Client Exploiters and Terms of Use/Community Standards Violators List 
 A list of users which violate the rules of Roblox (that could be considered serious violations) so you can prevent them from joining your Roblox Game(s)
 
 # ❗Reports and Appeals📄
