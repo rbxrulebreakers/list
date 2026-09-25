@@ -1,3 +1,6 @@
+> [!WARNING]
+> # This project has been Permanently Discontinued as of September 25, 2026.
+
 > [!CAUTION]
 > The only official place to get the rbxrulebreakers list is https://github.com/rbxrulebreakers/list. Any other websites offering downloads or claiming to be us are not controlled by us.
 
