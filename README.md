@@ -46,8 +46,6 @@ This is a list with Roblox UserId(s), Roblox UserId(s) are PUBLIC INFORMATION.
 
 This list is made for Roblox Game Developers to use it.
 
-Official Roblox Community/Group for rbxrulebreakers is https://www.roblox.com/communities/35633326/rbxrulebreakers
-
 For testing purposes, the official account for RbxRuleBreakers is within the list https://www.roblox.com/users/8027214461/profile.
 
 # Usage
